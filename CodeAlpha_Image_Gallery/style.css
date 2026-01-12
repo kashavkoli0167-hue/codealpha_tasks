@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    padding:20px;
+}
+h1{
+    text-align: center;
+    background-color: lightseagreen;
+    color: white;
+    padding:20px;
+}
+/*Filter button*/
+
+.filters{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.filters button{
+    padding:10px 15px;
+    margin:7px;
+    border:none;
+    background-color:#333;
+    color:white;
+    cursor:pointer;
+    border-radius: 5px;
+}
+.filters button:hover{
+    background-color: #666;
+    
+}
+/*Gallery*/
+
+.gallery{
+   
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:15px;
+    
+}
+.gallery-item{
+    overflow: hidden;
+    border-radius: 10px;
+    cursor:pointer;
+   
+  
+}
+.gallery-item img{
+    height: 25rem ;
+    width: 30rem;
+    margin: 5px;
+    border-radius: 10px;
+    object-fit: cover;
+    
+    transition: 0.4s;
+}
+.gallery-item:hover img{
+    transform: scale(1.1) ;
+
+}
+/*lightbox*/
+.lightbox{
+    display: none;
+    position:fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(0 ,0 ,0 ,0.9);
+
+}
+.lightbox img{
+    max-width: 90%;
+    max-height:80%;
+
+}
+.controls{
+    margin-top:15px;
+}
+.controls button{
+    padding:10px 15px;
+    font-size: 18px;
+    border:none;
+    cursor:pointer;
+    margin: 0 20px;
+    
+}
+.close{
+    position: absolute;
+    top:2rem;
+    right:9rem;
+    font-size: 30px;
+    color:white;
+    cursor:pointer;
+    
+}
