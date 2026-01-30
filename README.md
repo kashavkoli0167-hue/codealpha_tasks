@@ -24,7 +24,7 @@ It performs standard arithmetic operations with a simple and user-friendly inter
 - JavaScript
 
 **Output**
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4b3b5ad9-6e01-4d00-ab37-e4bbda3c46bc" />
 
 **Learning Outcome:**
 - DOM manipulation
