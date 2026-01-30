@@ -51,6 +51,7 @@ This project focuses on layout design, image presentation, and responsive struct
 - JavaScript
 
 **Output**
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/06895757-e583-4f9d-9cf5-aefb0aa2d195" />
 
 **Learning Outcome:**
 - Frontend layout structuring
