@@ -23,6 +23,7 @@ The gallery automatically adjusts to different screen sizes (desktop, tablet, an
 
 ## OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a03e6872-c228-4a65-988e-4fb50945afa8" />
 
 
 ## ▶ How to Run
