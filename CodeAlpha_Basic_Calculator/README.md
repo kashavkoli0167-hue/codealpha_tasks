@@ -36,3 +36,5 @@ This project demonstrates core frontend concepts such as DOM manipulation, event
 
 ## 📂 Project Structure / OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/21013519-af8d-4ba2-a7e9-016a759c55ab" />
+
