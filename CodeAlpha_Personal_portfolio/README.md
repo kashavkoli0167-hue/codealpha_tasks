@@ -18,7 +18,7 @@ Hi! I'm **Kashav**, a frontend developer. I work with HTML, CSS, JavaScript and 
 
 1. **Personal Portfolio Website**  
    Built with HTML & CSS.  
-   [View Project](#) *()*
+   [View Project](https://github.com/kashavkoli0167-hue/codealpha_tasks/tree/main/CodeAlpha_Personal_portfolio).
 
 2. **Responsive Image Gallery**  
    Built with HTML, CSS & JavaScript.  
