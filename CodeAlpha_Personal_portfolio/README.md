@@ -18,7 +18,7 @@ Hi! I'm **Kashav**, a frontend developer. I work with HTML, CSS, JavaScript and 
 
 1. **Personal Portfolio Website**  
    Built with HTML & CSS.  
-   [View Project](#) *(replace with live link if available)*
+   [View Project](#) *()*
 
 2. **Responsive Image Gallery**  
    Built with HTML, CSS & JavaScript.  
@@ -36,3 +36,4 @@ Hi! I'm **Kashav**, a frontend developer. I work with HTML, CSS, JavaScript and 
 
 ##OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c85f7448-eb86-4c61-a377-32840b83cff7" />
